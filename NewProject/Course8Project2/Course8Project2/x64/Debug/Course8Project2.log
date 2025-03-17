@@ -1,0 +1,3 @@
+﻿  Course8Project2.cpp
+C:\Users\abdo0\source\repos\Course8Project2\Course8Project2\Course8Project2.cpp(273,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Course8Project2.vcxproj -> C:\Users\abdo0\source\repos\Course8Project2\x64\Debug\Course8Project2.exe
